@@ -2,8 +2,14 @@
 To study how to make games
 
 # Tools
-clang/clang-cl - mainly for fears of cl(msvc) and setting up vcavarsall.bat
-Limit myself to using function/operator overloading in c++ as C
+- clang/clang-cl /Zi
+- cl 
+- vcvarsall.bat x64 for 64 bits
+- devenv = Visual Studio for the debugger
+- gvim
+
+# Type of project
+- Unity build
 
 # References
 https://guide.handmadehero.org/code/
